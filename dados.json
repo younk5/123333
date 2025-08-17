@@ -1,0 +1,5190 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "FRONTAL MOTO E6 PLAY",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 2,
+        "nome": "FRONTAL MOTO E6 PLAY (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 3,
+        "nome": "FRONTAL MOTO E6 PLUS",
+        "preco": "R$ 240,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 4,
+        "nome": "FRONTAL MOTO E6 PLUS (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 5,
+        "nome": "FRONTAL MOTO E6 PLUS (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 6,
+        "nome": "FRONTAL MOTO E6S",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 7,
+        "nome": "FRONTAL MOTO E6S (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 8,
+        "nome": "FRONTAL MOTO E6S (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 9,
+        "nome": "FRONTAL MOTO E6I",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 10,
+        "nome": "FRONTAL MOTO E6I (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 11,
+        "nome": "FRONTAL MOTO G7 - G7 PLUS",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 12,
+        "nome": "FRONTAL MOTO G7 POWER (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 13,
+        "nome": "FRONTAL MOTO G7 POWER (VIVAD)",
+        "preco": "R$ 386,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 14,
+        "nome": "FRONTAL MOTO G7 POWER (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 15,
+        "nome": "FRONTAL MOTO G7 PLAY (VIVAD)",
+        "preco": "R$ 413,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 16,
+        "nome": "FRONTAL MOTO G7 PLAY ORI (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 17,
+        "nome": "FRONTAL MOTO G7 PLAY (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 18,
+        "nome": "FRONTAL MOTO ONE (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 19,
+        "nome": "FRONTAL MOTO ONE (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 20,
+        "nome": "FRONTAL MOTO ONE (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 21,
+        "nome": "FRONTAL MOTO ONE ACTION",
+        "preco": "R$ 560,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 22,
+        "nome": "FRONTAL MOTO ONE VISION",
+        "preco": "R$ 560,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 23,
+        "nome": "FRONTAL MOTO ONE VISION (COM ARO)",
+        "preco": "R$ 640,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 24,
+        "nome": "FRONTAL MOTO ONE VISION (VIVAD)",
+        "preco": "R$ 706,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 25,
+        "nome": "FRONTAL MOTO ONE ACTION (COM ARO)",
+        "preco": "R$ 640,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 26,
+        "nome": "FRONTAL MOTO ONE MACRO",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 27,
+        "nome": "FRONTAL MOTO ONE MACRO (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 28,
+        "nome": "FRONTAL MOTO ONE HYPER",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 29,
+        "nome": "FRONTAL MOTO ONE HYPER (COM ARO)",
+        "preco": "R$ 400,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 30,
+        "nome": "FRONTAL MOTO ONE FUSION (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 31,
+        "nome": "FRONTAL MOTO ONE FUSION (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 32,
+        "nome": "FRONTAL MOTO ONE FUSION PLUS (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 33,
+        "nome": "FRONTAL MOTO ONE FUSION PLUS (COM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 34,
+        "nome": "FRONTAL MOTO ONE FUSION PLUS (VIVAD)",
+        "preco": "R$ 466,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 35,
+        "nome": "FRONTAL MOTO ONE ZOOM",
+        "preco": "R$ 520,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 36,
+        "nome": "FRONTAL MOTO G8 POWER (VIVAD)",
+        "preco": "R$ 413,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 37,
+        "nome": "FRONTAL MOTO G8 POWER (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 38,
+        "nome": "FRONTAL MOTO G8 POWER (COM ARO)",
+        "preco": "R$ 400,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 39,
+        "nome": "FRONTAL MOTO G8 PLAY (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 40,
+        "nome": "FRONTAL MOTO G8 PLAY (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 41,
+        "nome": "FRONTAL MOTO G8 PLUS",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 42,
+        "nome": "FRONTAL MOTO G8 PLUS (COM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 43,
+        "nome": "FRONTAL MOTO G8 POWER LITE (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 44,
+        "nome": "FRONTAL MOTO G8 POWER LITE (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 45,
+        "nome": "FRONTAL MOTO G9 (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 46,
+        "nome": "FRONTAL MOTO G9 PLAY (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 47,
+        "nome": "FRONTAL MOTO G9 PLAY (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 48,
+        "nome": "FRONTAL MOTO G9 POWER (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 49,
+        "nome": "FRONTAL MOTO G9 POWER (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 50,
+        "nome": "FRONTAL MOTO G9 PLUS (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 51,
+        "nome": "FRONTAL MOTO G9 PLUS (COM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 52,
+        "nome": "FRONTAL MOTO E7 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 53,
+        "nome": "FRONTAL MOTO E7 (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 54,
+        "nome": "FRONTAL MOTO E7 PLUS (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 55,
+        "nome": "FRONTAL MOTO E7 PLUS (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 56,
+        "nome": "FRONTAL MOTO E7 PLUS (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 57,
+        "nome": "FRONTAL MOTO E7 POWER (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 58,
+        "nome": "FRONTAL MOTO E7 POWER (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 59,
+        "nome": "FRONTAL MOTO  E7 POWER (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 60,
+        "nome": "FRONTAL MOTO E7 (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 61,
+        "nome": "FRONTAL G9 PLAY (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 62,
+        "nome": "FRONTAL MOTO G10 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 63,
+        "nome": "FRONTAL MOTO G10 (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 64,
+        "nome": "FRONTAL MOTO G20 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 65,
+        "nome": "FRONTAL MOTO G20 (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 66,
+        "nome": "FRONTAL MOTO G20 (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 67,
+        "nome": "FRONTAL MOTO G30 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 68,
+        "nome": "FRONTAL MOTO G30 (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 69,
+        "nome": "FRONTAL MOTO G50 (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 70,
+        "nome": "FRONTAL MOTO G50 5G (VIVAD)",
+        "preco": "R$ 466,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 71,
+        "nome": "FRONTAL MOTO G60/ G60S (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 72,
+        "nome": "FRONTAL MOTO G60 (VIVAD)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 73,
+        "nome": "FRONTAL MOTO G60  R$ 333,33 VIVAD (COM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 74,
+        "nome": "FRONTAL MOTO G60S   333,33  VIVAD (COM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 75,
+        "nome": "FRONTAL MOTO E40 (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 76,
+        "nome": "FRONTAL MOTO E40 (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 77,
+        "nome": "FRONTAL MOTO E20 (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 78,
+        "nome": "FRONTAL MOTO E20 (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 79,
+        "nome": "FRONTAL MOTO E20 (VIVAD)",
+        "preco": "R$ 373,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 80,
+        "nome": "FRONTAL MOTO G31/G41/G71 ORI (SEM ARO)",
+        "preco": "R$ 533,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 81,
+        "nome": "FRONTAL MOTO G31 INCEL (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 82,
+        "nome": "FRONTAL MOTO G31 INCEL COM ARO R$ 333,33 (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 83,
+        "nome": "FRONTAL MOTO G100 (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 84,
+        "nome": "FRONTAL MOTO G22 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 85,
+        "nome": "FRONTAL MOTO G22 (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 86,
+        "nome": "FRONTAL MOTO G22 (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 87,
+        "nome": "FRONTAL MOTO G42  ORI (SEM ARO)",
+        "preco": "R$ 560,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 88,
+        "nome": "FRONTAL MOTO G42  ORI R$ 560,00 INCEL (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 89,
+        "nome": "FRONTAL MOTO E13 (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 90,
+        "nome": "FRONTAL MOTO E13  R$ 266,67 COM ARO (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 91,
+        "nome": "FRONTAL MOTO G32 (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 92,
+        "nome": "FRONTAL MOTO G32 (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 93,
+        "nome": "FRONTAL MOTO E22 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 94,
+        "nome": "FRONTAL MOTO E22 (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 95,
+        "nome": "FRONTAL MOTO E22 (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 96,
+        "nome": "FRONTAL MOTO E32 (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 97,
+        "nome": "FRONTAL MOTO E32 (VIVAD)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 98,
+        "nome": "FRONTAL MOTO E32  R$ 306,67 VIVAD (COM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 99,
+        "nome": "FRONTAL MOTO G52 ORI (VIVAD)",
+        "preco": "R$ 586,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 100,
+        "nome": "FRONTAL MOTO G52 ORI  R$ 586,67 VIVAD (SEM ARO)",
+        "preco": "R$ 786,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 101,
+        "nome": "FRONTAL MOTO G5S PLUS",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 102,
+        "nome": "FRONTAL MOTO G5S",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 103,
+        "nome": "FRONTAL MOTO G5S R$ 266,67 G5",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 104,
+        "nome": "FRONTAL MOTO G6 PLAY (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 105,
+        "nome": "FRONTAL MOTO G6 PLAY (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 106,
+        "nome": "FRONTAL MOTO G4 PLAY",
+        "preco": "A consultar",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 107,
+        "nome": "FRONTAL MOTO E4",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 108,
+        "nome": "FRONTAL MOTO  X4",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 109,
+        "nome": "FRONTAL MOTO E5 PLAY",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 110,
+        "nome": "FRONTAL MOTO G6 (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 111,
+        "nome": "FRONTAL MOTO Z PLAY",
+        "preco": "R$ 426,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 112,
+        "nome": "FRONTAL  MOTO Z2 PLAY",
+        "preco": "R$ 386,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 113,
+        "nome": "FRONTAL MOTO Z3 PLAY",
+        "preco": "R$ 560,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 114,
+        "nome": "FRONTAL MOTO G6 PLUS (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 115,
+        "nome": "FRONTAL MOTO E4 PLUS",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 116,
+        "nome": "FRONTAL MOTO C PLUS",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 117,
+        "nome": "FRONTAL MOTO G5 PLUS",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 118,
+        "nome": "FRONTAL MOTO G53 (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 119,
+        "nome": "FRONTAL MOTO G53 (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 120,
+        "nome": "FRONTAL MOTO G53 ORI (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 121,
+        "nome": "FRONTAL MOTO G5G (SEM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 122,
+        "nome": "FRONTAL MOTO G5G (VIVAD)",
+        "preco": "R$ 466,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 123,
+        "nome": "FRONTAL MOTO G8",
+        "preco": "R$ 266,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 124,
+        "nome": "FRONTAL MOTO G8 (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 125,
+        "nome": "FRONTAL MOTO G24 (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 126,
+        "nome": "FRONTAL MOTO G24  R$ 280,00 COM ARO (SEM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 127,
+        "nome": "FRONTAL MOTO G04 (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 128,
+        "nome": "FRONTAL MOTO G04  R$ 280,00COM ARO (SEM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 129,
+        "nome": "FRONTAL MOTO G04S (COM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 130,
+        "nome": "FRONTAL MOTO G54 (VIVAD)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 131,
+        "nome": "FRONTAL MOTO G54   R$ 333,33 VIVAD (COM ARO)",
+        "preco": "R$ 440,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 132,
+        "nome": "FRONTAL MOTO G54  ORI (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 133,
+        "nome": "FRONTAL MOTO G14 ORI (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 134,
+        "nome": "FRONTAL MOTO G14 (COM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 135,
+        "nome": "FRONTAL MOTO G5G PLUS",
+        "preco": "R$ 386,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 136,
+        "nome": "FRONTAL MOTO EDGE 30 NEO (SEM ARO)",
+        "preco": "R$ 1120,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 137,
+        "nome": "FRONTAL MOTO G62 ORI (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 138,
+        "nome": "FRONTAL MOTO G62 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 139,
+        "nome": "FRONTAL MOTO EDGE 30 ORI (SEM ARO)",
+        "preco": "R$ 573,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 140,
+        "nome": "FRONTAL MOTO EDGE 30 (VIVAD)",
+        "preco": "R$ 1120,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 141,
+        "nome": "FRONTAL MOTO G34 ORI (VIVAD)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 142,
+        "nome": "FRONTAL MOTO G34 ORI  R$ 293,33 VIVAD (SEM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 143,
+        "nome": "FRONTAL MOTO G73 ORI (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 144,
+        "nome": "FRONTAL MOTO G200 ORI (SEM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 145,
+        "nome": "FRONTAL MOTO G84 ORI (SEM ARO)",
+        "preco": "R$ 840,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 146,
+        "nome": "FRONTAL MOTO G84 (VIVAD)",
+        "preco": "R$ 1026,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 147,
+        "nome": "FRONTAL MOTO G13 (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 148,
+        "nome": "FRONTAL MOTO G34",
+        "preco": "R$ 293,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 149,
+        "nome": "FRONTAL MOTO G34 VIVAD (COM ARO)",
+        "preco": "R$ 400,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 150,
+        "nome": "FRONTAL MOTO G04S ORI SEM ARO",
+        "preco": "A consultar",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 151,
+        "nome": "FRONTAL MOTO G04S ORI (COM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 152,
+        "nome": "FRONTAL MOTO G04 (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 153,
+        "nome": "FRONTAL MOTO G04S VIVAD",
+        "preco": "A consultar",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 154,
+        "nome": "FRONTAL MOTO EDGE 20 LITE VIVAD (COM ARO)",
+        "preco": "R$ 866,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 155,
+        "nome": "FRONTAL MOTO EDGE 20 LITE VIVAD (SEM ARO)",
+        "preco": "R$ 800,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 156,
+        "nome": "FRONTAL MOTO G24 POWER (SEM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 157,
+        "nome": "FRONTAL MOTO G84 INCEL COM ARO 413,33",
+        "preco": "A consultar",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 158,
+        "nome": "FRONTAL MOTO G15 ORI (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 159,
+        "nome": "FRONTAL MOTO G35 ORI SEM ARO",
+        "preco": "A consultar",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 160,
+        "nome": "FRONTAL MOTO G82 ORI (SEM ARO)",
+        "preco": "R$ 586,67",
+        "marca": "motorola",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 161,
+        "nome": "FRONTAL SAMSUNG J120 (NACIONAL)",
+        "preco": "R$ 320,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 162,
+        "nome": "FRONTAL SAMSUNG J120 (INCELL)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 163,
+        "nome": "FRONTAL SAMSUNG J2 CORE",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 164,
+        "nome": "FRONTAL SAMSUNG J2 PRÓ",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 165,
+        "nome": "FRONTAL SAMSUNG J3 (INCELL)",
+        "preco": "R$ 253,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 166,
+        "nome": "FRONTAL SAMSUNG J3 ORI",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 167,
+        "nome": "FRONTAL SAMSUNG J4 (INCELL)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 168,
+        "nome": "FRONTAL SAMSUNG J4 (ORIGINAL)",
+        "preco": "R$ 386,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 169,
+        "nome": "FRONTAL SAMSUNG J4 PLUS J6 PLUS J4 CORE",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 170,
+        "nome": "FRONTAL SAMSUNG J5 (INCELL)",
+        "preco": "R$ 226,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 171,
+        "nome": "FRONTAL SAMSUNG J5 (ORIGINAL)",
+        "preco": "R$ 386,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 172,
+        "nome": "FRONTAL SAMSUNG J5 METAL (INCELL)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 173,
+        "nome": "FRONTAL SAMSUNG J5 METAL (ORIGINAL)",
+        "preco": "R$ 386,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 174,
+        "nome": "FRONTAL SAMSUNG J5 PRIME",
+        "preco": "R$ 226,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 175,
+        "nome": "FRONTAL SAMSUNG J5 PRO (INCELL)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 176,
+        "nome": "FRONTAL SAMSUNG J5 PRO (ORIGINAL)",
+        "preco": "R$ 400,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 177,
+        "nome": "FRONTAL SAMSUNG J6 (INCELL)",
+        "preco": "R$ 253,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 178,
+        "nome": "FRONTAL SAMSUNG J6 (ORIGINAL)",
+        "preco": "R$ 560,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 179,
+        "nome": "FRONTAL SAMSUNG J7 (INCELL)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 180,
+        "nome": "FRONTAL SAMSUNG J7 (ORIGINAL)",
+        "preco": "R$ 400,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 181,
+        "nome": "FRONTAL SAMSUNG J7 NEO (INCELL)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 182,
+        "nome": "FRONTAL SAMSUNG J7 NEO (ORIGINAL)",
+        "preco": "R$ 400,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 183,
+        "nome": "FRONTAL SAMSUNG J7 METAL (INCELL)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 184,
+        "nome": "FRONTAL SAMUNG J7 METAL (ORIGINAL)",
+        "preco": "R$ 400,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 185,
+        "nome": "FRONTAL SAMSUNG J7 PRO (INCELL)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 186,
+        "nome": "FRONTAL SAMSUNG J7 PRO (ORIGINAL)",
+        "preco": "R$ 413,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 187,
+        "nome": "FRONTAL SAMSUNG J7 PRIME",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 188,
+        "nome": "FRONTAL SAMSUNG J7 PRIME 2",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 189,
+        "nome": "FRONTAL SAMSUNG J8 (INCELL)",
+        "preco": "R$ 253,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 190,
+        "nome": "FRONTAL SAMSUNG J8 (ORIGINAL)",
+        "preco": "R$ 560,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 191,
+        "nome": "FRONTAL SAMSUNG A6 PLUS (ORIGINAL)",
+        "preco": "R$ 520,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 192,
+        "nome": "FRONTAL SAMSUNG A01 (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 193,
+        "nome": "FRONTAL SAMSUNG A01 (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 194,
+        "nome": "FRONTAL SAMSUNG A01 (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 195,
+        "nome": "FRONTAL SAMSUNG A01 CORE (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 196,
+        "nome": "FRONTAL SAMSUNG A01 CORE (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 197,
+        "nome": "FRONTAL SAMSUNG A10 (SEM ARO)",
+        "preco": "R$ 226,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 198,
+        "nome": "FRONTAL SAMSUNG A10 (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 199,
+        "nome": "FRONTAL SAMSUNG A10 (VIVAD)",
+        "preco": "R$ 320,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 200,
+        "nome": "FRONTAL SAMSUNG A10E",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 201,
+        "nome": "FRONTAL SAMSUNG AI0S (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 202,
+        "nome": "FRONTAL SAMSUNG A10S (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 203,
+        "nome": "FRONTAL SAMSUNG A10S (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 204,
+        "nome": "FRONTAL SAMSUNG A11 (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 205,
+        "nome": "FRONTAL SAMSUNG A11 (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 206,
+        "nome": "FRONTAL SAMSUNG A11 (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 207,
+        "nome": "FRONTAL SAMSUNG A12 (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 208,
+        "nome": "FRONTAL SAMSUNG A12 (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 209,
+        "nome": "FRONTAL SAMSUNG A12 (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 210,
+        "nome": "FRONTAL SAMSUNG A13 4G (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 211,
+        "nome": "FRONTAL SAMSUNG A13 4G (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 212,
+        "nome": "FRONTAL SAMSUNG A13 4G (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 213,
+        "nome": "FRONTAL SAMSUNG A13 5G (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 214,
+        "nome": "FRONTAL SAMSUNG A13 5G (VIVAD)",
+        "preco": "R$ 386,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 215,
+        "nome": "FRONTAL SAMSUNG A02 (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 216,
+        "nome": "FRONTAL SAMSUNG A02 (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 217,
+        "nome": "FRONTAL SAMUNG A02S - A03 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 218,
+        "nome": "FRONTAL SAMSUNG A02S (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 219,
+        "nome": "FRONTAL SAMSUNG A02S (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 220,
+        "nome": "FRONTAL SAMSUNG A04S (COM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 221,
+        "nome": "FRONTAL SAMSUNG A04S  R$ 253,33 COM ARO (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 222,
+        "nome": "FRONTAL SAMSUNG A04S (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 223,
+        "nome": "FRONTAL SAMSUNG A03 (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 224,
+        "nome": "FRONTAL SAMSUNG A03 (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 225,
+        "nome": "FRONTAL SAMSUNG A03S (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 226,
+        "nome": "FRONTAL SAMSUNG A03S (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 227,
+        "nome": "FRONTAL SAMSUNG A03 CORE (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 228,
+        "nome": "FRONTAL SAMSUNG A03 CORE (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 229,
+        "nome": "FRONTAL SAMSUNG A20 INCEL (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 230,
+        "nome": "FRONTAL SAMSUNG A20 INCEL (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 231,
+        "nome": "FRONTAL SAMSUNG A20 ORI (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 232,
+        "nome": "FRONTAL SAMSUNG A20 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 233,
+        "nome": "FRONTAL SAMSUNG A20 (VIVAD)",
+        "preco": "R$ 533,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 234,
+        "nome": "FRONTAL SAMSUNG A20S (SEM ARO)",
+        "preco": "R$ 240,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 235,
+        "nome": "FRONTAL SAMSUNG A20S (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 236,
+        "nome": "FRONTAL SAMSUNG A20S (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 237,
+        "nome": "FRONTAL SAMSUNG A21S (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 238,
+        "nome": "FRONTAL SAMSUNG A21S (COM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 239,
+        "nome": "FRONTAL SAMSUNG A21S (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 240,
+        "nome": "FRONTAL SAMSUNG M20 (SEM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 241,
+        "nome": "FRONTAL SAMSUNG M20 (COM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 242,
+        "nome": "FRONTAL SAMSUNG M21 ORI (SEM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 243,
+        "nome": "FRONTAL SAMSUNG A30 (VIVAD)",
+        "preco": "R$ 546,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 244,
+        "nome": "FRONTAL SAMSUNG A30 INCEL (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 245,
+        "nome": "FRONTAL SASMUNG A30 ORI (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 246,
+        "nome": "FRONTAL SAMSUNG A30 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 247,
+        "nome": "FRONTAL SAMSUNG A30S INCEL (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 248,
+        "nome": "FRONTAL SAMSUNG A30S INCEL (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 249,
+        "nome": "FRONTAL SAMSUNG A30S ORI (SEM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 250,
+        "nome": "FRONTAL SAMSUNG A30S ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 251,
+        "nome": "FRONTAL SAMSUNG A30S (VIVAD)",
+        "preco": "R$ 546,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 252,
+        "nome": "FRONTAL SAMSUNG A31 INCEL (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 253,
+        "nome": "FRONTAL SAMSUNG A31 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 254,
+        "nome": "FRONTAL SAMSUNG A31 (VIVAD)",
+        "preco": "R$ 560,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 255,
+        "nome": "FRONTAL SAMSUNG M30 INCEL (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 256,
+        "nome": "FRONTAL SAMSUNG M30 INCEL COM ARO",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 257,
+        "nome": "FRONTAL SAMSUNG M30 ORI (SEM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 258,
+        "nome": "FRONTAL SAMSUNG M30 ORI (COM ARO)",
+        "preco": "R$ 506,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 259,
+        "nome": "FRONTAL SAMSUNG M31 INCEL SEM ARO  280,00",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 260,
+        "nome": "FRONTAL SAMSUNG M31 ORI (COM ARO)",
+        "preco": "R$ 506,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 261,
+        "nome": "FRONTAL SAMSUNG A50 INCEL (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 262,
+        "nome": "FRONTAL SAMSUNG A50 INCEL (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 263,
+        "nome": "FRONTAL SAMSUNG A50 ORI (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 264,
+        "nome": "FRONTAL SAMSUNG A50 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 265,
+        "nome": "FRONTAL SAMSUNG A50 (VIVAD)",
+        "preco": "R$ 546,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 266,
+        "nome": "FRONTAL SAMSUNG A50 (NACIONAL)",
+        "preco": "R$ 1106,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 267,
+        "nome": "FRONTAL SAMSUNG A51 INCEL (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 268,
+        "nome": "FRONTAL SAMSUNG A51 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 269,
+        "nome": "FRONTAL SAMSUNG A51 (VIVAD)",
+        "preco": "R$ 573,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 270,
+        "nome": "FRONTAL SAMSUNG A70 INCEL (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 271,
+        "nome": "FRONTAL SAMSUNG A70  BORDA FINA (ORIGINAL)",
+        "preco": "R$ 733,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 272,
+        "nome": "FRONTAL SAMSUNG A70 (VIVAD)",
+        "preco": "R$ 946,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 273,
+        "nome": "FRONTAL SAMSUNG A70  BORDA GROSSA (ORIGINAL)",
+        "preco": "R$ 466,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 274,
+        "nome": "FRONTAL SAMSUNG A71 INCEL (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 275,
+        "nome": "FRONTAL SAMSUNG A71   BORDA GROSSA (ORIGINAL)",
+        "preco": "R$ 520,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 276,
+        "nome": "FRONTAL SAMSUNG A71 ORI (VIVAD)",
+        "preco": "R$ 680,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 277,
+        "nome": "FRONTAL SAMSUNG A71 (NACIONAL)",
+        "preco": "R$ 1480,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 278,
+        "nome": "FRONTAL SAMSUNG A72 INCEL (SEM ARO)",
+        "preco": "R$ 466,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 279,
+        "nome": "FRONTAL SAMSUNG A72 (VIVAD)",
+        "preco": "R$ 813,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 280,
+        "nome": "FRONTAL SAMSUNG A32 5G (VIVAD)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 281,
+        "nome": "FRONTAL SAMSUNG A32 5G  R$ 306,67 VIVAD (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 282,
+        "nome": "FRONTAL SAMSUNG A32 4G (VIVAD)",
+        "preco": "R$ 586,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 283,
+        "nome": "FRONTAL SAMSUNG A32 4G INCEL (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 284,
+        "nome": "FRONTAL SAMSUNG A32 4G CHINA (ORIGINAL)",
+        "preco": "R$ 533,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 285,
+        "nome": "FRONTAL SAMSUNG A32 4G (NACIONAL)",
+        "preco": "R$ 1026,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 286,
+        "nome": "FRONTAL SAMSUNG A22 5G (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 287,
+        "nome": "FRONTAL SAMSUNG A22 5G (VIVAD)",
+        "preco": "R$ 413,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 288,
+        "nome": "FRONTAL SAMSUNG A22 4G INCEL (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 289,
+        "nome": "FRONTAL SAMSUNG A22 4G (VIVAD)",
+        "preco": "R$ 573,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 290,
+        "nome": "FRONTAL SAMSUNG A22 4G ORI (COM ARO)",
+        "preco": "R$ 520,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 291,
+        "nome": "FRONTAL SAMSUNG M22 (VIVAD)",
+        "preco": "R$ 533,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 292,
+        "nome": "FRONTAL SAMSUNG M23 (VIVAD)",
+        "preco": "R$ 426,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 293,
+        "nome": "FRONTAL SAMSUNG A8 PLUS A730",
+        "preco": "R$ 573,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 294,
+        "nome": "FRONTAL SAMSUNG A8 A530",
+        "preco": "R$ 626,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 295,
+        "nome": "FRONTAL SAMSUNG A9 2018 A920",
+        "preco": "R$ 546,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 296,
+        "nome": "FRONTAL SAMSUNG A7 2018 A750 (SEM ARO)",
+        "preco": "R$ 533,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 297,
+        "nome": "FRONTAL SAMSUNG A7 2018 A750 (COM ARO)",
+        "preco": "R$ 560,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 298,
+        "nome": "FRONTAL SAMSUNG A7 2017 A720",
+        "preco": "R$ 440,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 299,
+        "nome": "FRONTAL SAMSUNG A7 2016 A710",
+        "preco": "R$ 426,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 300,
+        "nome": "FRONTAL SAMSUNG A5 2017 A520",
+        "preco": "R$ 426,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 301,
+        "nome": "FRONTAL SAMSUNG A5 2016 A510",
+        "preco": "R$ 480,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 302,
+        "nome": "FRONTAL SAMSUNG S8 (ORIGINAL)",
+        "preco": "R$ 1693,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 303,
+        "nome": "FRONTAL SAMSUNG S8  R$ 1693,33  S8 PLUS (ORIGINAL)",
+        "preco": "R$ 1640,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 304,
+        "nome": "FRONTAL SASMSUNG S9 PLUS (ORIGINAL)",
+        "preco": "R$ 1693,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 305,
+        "nome": "FRONTAL SAMSUNG S9 (ORIGINAL)",
+        "preco": "R$ 1693,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 306,
+        "nome": "FRONTAL SAMSUNG S10 (ORIGINAL)",
+        "preco": "R$ 2493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 307,
+        "nome": "FRONTAL SAMSUNG S10 PLUS (ORIGINAL)",
+        "preco": "R$ 96,13",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 308,
+        "nome": "FRONTAL SAMSUNG S20 PLUS (VIVAD)",
+        "preco": "R$ 1826,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 309,
+        "nome": "FRONTAL SAMSUNG S20 FE (VIVAD)",
+        "preco": "R$ 680,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 310,
+        "nome": "FRONTAL SAMSUNG A52 INCEL (COM ARO)",
+        "preco": "R$ 400,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 311,
+        "nome": "FRONTAL SAMSUNG A52 ORI (COM ARO)",
+        "preco": "R$ 613,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 312,
+        "nome": "FRONTAL SAMSUNG A52 (VIVAD)",
+        "preco": "R$ 706,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 313,
+        "nome": "FRONTAL SAMSUNG M21 ORI (SEM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 314,
+        "nome": "FRONTAL SAMSUNG M21S ORI (SEM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 315,
+        "nome": "FRONTAL SAMSUNG A23 5G (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 316,
+        "nome": "FRONTAL SAMSUNG A23 5G (COM ARO)",
+        "preco": "R$ 373,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 317,
+        "nome": "FRONTAL SAMSUNG A23  4G (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 318,
+        "nome": "FRONTAL SAMSUNG M62 (VIVAD)",
+        "preco": "R$ 1160,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 319,
+        "nome": "FRONTAL SAMSUNG M62 (INCELL)",
+        "preco": "R$ 333,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 320,
+        "nome": "FRONTAL SAMSUNG M51 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 321,
+        "nome": "FRONTAL SAMSUNG A34 VIVID",
+        "preco": "R$ 786,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 322,
+        "nome": "FRONTAL SAMSUNG A34 VIVID R$ 786,67 (ORIGINAL)",
+        "preco": "R$ 613,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 323,
+        "nome": "FRONTAL SAMSUNG A53 (VIVAD)",
+        "preco": "R$ 733,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 324,
+        "nome": "FRONTAL SAMSUNG M52 (VIVAD)",
+        "preco": "R$ 840,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 325,
+        "nome": "FRONTAL SAMSUNG M52  R$ 840,00 INCEL (VIVAD)",
+        "preco": "R$ 386,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 326,
+        "nome": "FRONTAL SAMSUN M53 (VIVAD)",
+        "preco": "R$ 866,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 327,
+        "nome": "FRONTAL SAMSUN M53  R$ 866,67 INCEL (VIVAD)",
+        "preco": "R$ 386,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 328,
+        "nome": "FRONTAL SAMSUNG A80  ORI (SEM ARO)",
+        "preco": "R$ 1026,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 329,
+        "nome": "FRONTAL SAMSUNG A80  ORI R$ 1026,67 NACIONAL (SEM ARO)",
+        "preco": "R$ 1373,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 330,
+        "nome": "FRONTAL SAMSUNG M14 (COM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 331,
+        "nome": "FRONTAL SAMSUNG A05 (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 332,
+        "nome": "FRONTAL SAMSUNG A05S (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 333,
+        "nome": "FRONTAL SAMSUNG A05S (COM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 334,
+        "nome": "FRONTAL SAMSUNG A23 4G (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 335,
+        "nome": "FRONTAL SAMSUNG A23 4G COM ARO 333,33",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 336,
+        "nome": "FRONTAL SAMSUNG A23 4G (VIVAD)",
+        "preco": "R$ 386,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 337,
+        "nome": "FRONTAL SAMSUNG A14 4G (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 338,
+        "nome": "FRONTAL SAMSUNG A14 4G (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 339,
+        "nome": "FRONTAL SAMSUNG M12 (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 340,
+        "nome": "FRONTAL SAMSUNG M12 (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 341,
+        "nome": "FRONTAL SAMSUNG A04 (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 342,
+        "nome": "FRONTAL SAMSUNG A04E (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 343,
+        "nome": "FRONTAL SAMSUNG A04 (VIVAD)",
+        "preco": "R$ 373,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 344,
+        "nome": "FRONTAL SAMSUNG S10E (ORIGINAL)",
+        "preco": "R$ 1693,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 345,
+        "nome": "FRONTAL SAMSUNG A14 5G (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 346,
+        "nome": "FRONTAL SAMSUNG A14 5G (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 347,
+        "nome": "FRONTAL SAMSUNG A14 5G (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 348,
+        "nome": "FRONTAL SAMSUNG M32 (NACIONAL)",
+        "preco": "R$ 1293,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 349,
+        "nome": "FRONTAL SAMSUNG M32 INCEL (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 350,
+        "nome": "FRONTAL SAMSUNG M13 (ORIGINAL)",
+        "preco": "R$ 333,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 351,
+        "nome": "FRONTAL SAMSUNG M13 ORI (VIVAD)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 352,
+        "nome": "FRONTAL SAMSUNG M13 ORI  R$ 360,00 VIVAD (COM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 353,
+        "nome": "FRONTAL SAMSUNG A24 (VIVAD)",
+        "preco": "R$ 760,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 354,
+        "nome": "FRONTAL SAMSUNG A24 ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 355,
+        "nome": "FRONTAL SAMSUNG A24 (INCELL)",
+        "preco": "R$ 360,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 356,
+        "nome": "FRONTAL SAMSUNG A33 ORI SEM ARO",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 357,
+        "nome": "FRONTAL SAMSUNG A33 ORI (COM ARO)",
+        "preco": "R$ 533,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 358,
+        "nome": "FRONTAL SAMSUNG A33 INCEL",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 359,
+        "nome": "FRONTAL SAMSUNG A33 VIVAD",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 360,
+        "nome": "FRONTAL SAMSUNG A54 (VIVAD)",
+        "preco": "R$ 733,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 361,
+        "nome": "FRONTAL SAMSUNG A15 ORI  546,67 COM ARO (SEM ARO)",
+        "preco": "R$ 586,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 362,
+        "nome": "FRONTAL SAMSUNG A15 (VIVAD)",
+        "preco": "R$ 680,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 363,
+        "nome": "FRONTAL SAMSUNG A25 (VIVAD)",
+        "preco": "R$ 786,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 364,
+        "nome": "FRONTAL SAMSUNG A25 ORI",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 365,
+        "nome": "FRONTAL SAMSUNG A25 INCEL",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 366,
+        "nome": "FRONTAL SAMSUNG M54 (VIVAD)",
+        "preco": "R$ 680,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 367,
+        "nome": "FRONTAL SAMSUNG M54 ORI",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 368,
+        "nome": "FRONTAL SAMSUNG M54 INCEL",
+        "preco": "A consultar",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 369,
+        "nome": "FRONTAL SAMSUNG M34 (VIVAD)",
+        "preco": "R$ 760,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 370,
+        "nome": "FRONTAL SAMSUNG M34 ORI (SEM ARO)",
+        "preco": "R$ 573,33",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 371,
+        "nome": "FRONTAL A06  ORI (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 372,
+        "nome": "FRONTAL A55 (VIVAD)",
+        "preco": "R$ 946,67",
+        "marca": "samsung",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 373,
+        "nome": "FRONTAL IPHONE 4S",
+        "preco": "R$ 173,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 374,
+        "nome": "FRONTAL IPHONE 5C",
+        "preco": "R$ 253,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 375,
+        "nome": "FRONTAL IPHONE 5G",
+        "preco": "R$ 253,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 376,
+        "nome": "FRONTAL IPHONE 5S",
+        "preco": "R$ 253,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 377,
+        "nome": "FRONTAL IPHONE 6G",
+        "preco": "R$ 226,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 378,
+        "nome": "FRONTAL IPHONE 6S",
+        "preco": "R$ 240,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 379,
+        "nome": "FRONTAL IPHONE 6S (VIVAD)",
+        "preco": "R$ 320,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 380,
+        "nome": "FRONTAL IPHONE 6 PLUS",
+        "preco": "R$ 280,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 381,
+        "nome": "FRONTAL IPHONE 6S PLUS",
+        "preco": "R$ 266,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 382,
+        "nome": "FRONTAL IPHONE 7G",
+        "preco": "R$ 240,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 383,
+        "nome": "FRONTAL IPHONE 7G (VIVAD)",
+        "preco": "R$ 320,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 384,
+        "nome": "FRONTAL IPHONE 7 PLUS",
+        "preco": "R$ 280,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 385,
+        "nome": "FRONTAL IPHONE 7 PLUS (VIVAD)",
+        "preco": "R$ 346,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 386,
+        "nome": "FRONTAL IPHONE 8G",
+        "preco": "R$ 253,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 387,
+        "nome": "FRONTAL IPHONE 8G (VIVAD)",
+        "preco": "R$ 320,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 388,
+        "nome": "FRONTAL IPHONE 8 PLUS",
+        "preco": "R$ 280,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 389,
+        "nome": "FRONTAL IPHONE 8 PLUS (VIVAD)",
+        "preco": "R$ 333,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 390,
+        "nome": "FRONTAL IPHONE X OLED (VIVAD)",
+        "preco": "R$ 573,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 391,
+        "nome": "FRONTAL IPHONE X (INCELL)",
+        "preco": "R$ 306,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 392,
+        "nome": "FRONTAL IPHONE XS (VIVAD)",
+        "preco": "R$ 586,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 393,
+        "nome": "FRONTAL IPHONE XS (INCELL)",
+        "preco": "R$ 306,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 394,
+        "nome": "FRONTAL IPHONE XR",
+        "preco": "R$ 373,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 395,
+        "nome": "FRONTAL IPHONE XR (INCELL)",
+        "preco": "R$ 306,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 396,
+        "nome": "FRONTAL IPHONE 11 (VIVAD)",
+        "preco": "R$ 373,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 397,
+        "nome": "FRONTAL IPHONE 11 PRO OLED",
+        "preco": "R$ 653,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 398,
+        "nome": "FRONTAL IPHONE 11 PRO (INCELL)",
+        "preco": "R$ 386,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 399,
+        "nome": "FRONTAL IPHONE 11 PRO MAX (VIVAD)",
+        "preco": "R$ 746,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 400,
+        "nome": "FRONTAL IPHONE 11 PRO MAX INCEL 386,67",
+        "preco": "A consultar",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 401,
+        "nome": "FRONTAL IPHONE 12 12 PRO (VIVAD)",
+        "preco": "R$ 786,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 402,
+        "nome": "FRONTAL IPHONE 12 12 PRO (INCELL)",
+        "preco": "R$ 386,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 403,
+        "nome": "FRONTAL IPHONE 12 PRO MAX OLED",
+        "preco": "R$ 1293,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 404,
+        "nome": "FRONTAL IPHONE 12 PRO MAX (INCELL)",
+        "preco": "R$ 440,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 405,
+        "nome": "FRONTAL IPHONE XS MAX OLED (VIVAD)",
+        "preco": "R$ 693,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 406,
+        "nome": "FRONTAL IPHONE XS MAX (INCELL)",
+        "preco": "R$ 386,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 407,
+        "nome": "FRONTAL IPHONE 11 (INCELL)",
+        "preco": "R$ 306,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 408,
+        "nome": "FRONTAL IPHONE 13 PRO MAX (VIVAD)",
+        "preco": "R$ 1373,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 409,
+        "nome": "FRONTAL IPHONE 13 PRO MAX  R$ 1373,33 INCEL (VIVAD)",
+        "preco": "R$ 746,67",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 410,
+        "nome": "FRONTAL IPHONE 13 (VIVAD)",
+        "preco": "R$ 893,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 411,
+        "nome": "FRONTAL IPHONE 13 (INCELL)",
+        "preco": "R$ 520,00",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 412,
+        "nome": "FRONTAL IPHONE 13 PRO (VIVAD)",
+        "preco": "R$ 1413,33",
+        "marca": "iphone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 413,
+        "nome": "FRONTAL XIAOMI X4 GT",
+        "preco": "R$ 520,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 414,
+        "nome": "FRONTAL XIAOMI 4A",
+        "preco": "R$ 306,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 415,
+        "nome": "FRONTAL XIAOMI MAX 3",
+        "preco": "R$ 413,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 416,
+        "nome": "FRONTAL XIAOMI NOTE 4X",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 417,
+        "nome": "FRONTAL XIAOMI MI A2",
+        "preco": "R$ 280,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 418,
+        "nome": "FRONTAL XIAOMI MI PLAY",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 419,
+        "nome": "FRONTAL XIAOMI MI 4X",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 420,
+        "nome": "FRONTAL XIAOMI X3",
+        "preco": "R$ 320,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 421,
+        "nome": "FRONTAL XIAOMI MI A2 LITE",
+        "preco": "R$ 413,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 422,
+        "nome": "FRONTAL XIAOMI REDMI S2",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 423,
+        "nome": "FRONTAL XIAOMI MI GO/5A",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 424,
+        "nome": "FRONTAL XIAOMI REDMI 6/6A",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 425,
+        "nome": "FRONTAL XIAOMI MI A3 (COM ARO)",
+        "preco": "R$ 546,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 426,
+        "nome": "FRONTAL XIAOMI MI A3 R$ 546,67 NACIONAL (COM ARO)",
+        "preco": "R$ 893,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 427,
+        "nome": "FRONTAL XIAOMI MI A3 R$ 546,67 NACIONAL  R$ 893,33 INCEL (COM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 428,
+        "nome": "FRONTAL XIAOMI POCO F1",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 429,
+        "nome": "FRONTAL XIAOMI NOTE 6 PRÓ",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 430,
+        "nome": "FRONTAL XIAOMI NOTE 6",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 431,
+        "nome": "FRONTAL XIAOMI REDMI 5",
+        "preco": "R$ 306,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 432,
+        "nome": "FRONTAL XIAOMI NOTE 5 (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 433,
+        "nome": "FRONTAL XIAOMI NOTE 5   R$ 333,33 (COM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 434,
+        "nome": "FRONTAL XIAOMI NOTE 5 PRÓ",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 435,
+        "nome": "FRONTAL XIAOMI NOTE 5 PLUS/ REDMI 5 PLUS",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 436,
+        "nome": "FRONTAL XIAOMI MI 7A",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 437,
+        "nome": "FRONTAL XIAOMI NOTE 7/ NOTE 7 PRO (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 438,
+        "nome": "FRONTAL XIAOMI NOTE 7 (COM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 439,
+        "nome": "FRONTAL XIAOMI MI 7",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 440,
+        "nome": "FRONTAL XIAOMI NOTE 8 PRÓ",
+        "preco": "R$ 280,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 441,
+        "nome": "FRONTAL XIAOMI MI 8 LITE",
+        "preco": "R$ 266,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 442,
+        "nome": "FRONTAL XIAOMI REDMI 8",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 443,
+        "nome": "FRONTAL XIAOMI REDMI 8A",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 444,
+        "nome": "FRONTAL XIAOMI NOTE 8 (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 445,
+        "nome": "FRONTAL XIAOMI MI 8",
+        "preco": "R$ 440,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 446,
+        "nome": "FRONTAL XIAOMI NOTE 8T (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 447,
+        "nome": "FRONTAL XIAOMI NOTE 8T R$ 293,33 (COM ARO)",
+        "preco": "R$ 573,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 448,
+        "nome": "FRONTAL XIAOMI NOTE 9 (COM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 449,
+        "nome": "FRONTAL XIAOMI NOTE 9 R$ 253,33 (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 450,
+        "nome": "FRONTAL XIAOMI MI 9A/MI 9C",
+        "preco": "R$ 266,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 451,
+        "nome": "FRONTAL XIAOMI MI 9A (COM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 452,
+        "nome": "FRONTAL XIAOMI MI 9 LITE",
+        "preco": "R$ 600,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 453,
+        "nome": "FRONTAL XIAOMI MI 9 LITE R$ 600,00 (INCELL)",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 454,
+        "nome": "FRONTAL XIAOMI NOTE 9S",
+        "preco": "R$ 266,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 455,
+        "nome": "FRONTAL XIAOMI MI 9T/ MI 9T PRÓ (ORIGINAL)",
+        "preco": "R$ 680,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 456,
+        "nome": "FRONTAL XIAOMI MI9T/ MI 9T PRÓ (INCELL)",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 457,
+        "nome": "FRONTAL XIAOMI REDMI 9",
+        "preco": "R$ 266,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 458,
+        "nome": "FRONTAL XIAOMI MI 9 SE",
+        "preco": "R$ 893,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 459,
+        "nome": "FRONTAL XIAOMI MI 9",
+        "preco": "R$ 520,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 460,
+        "nome": "FRONTAL XIAOMI M3/ REDMI 9T",
+        "preco": "R$ 266,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 461,
+        "nome": "FRONTAL XIAOMI NOTE 10 LITE CURVADA",
+        "preco": "R$ 573,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 462,
+        "nome": "FRONTAL XIAOMI NOTE 10 4G INCEL (COM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 463,
+        "nome": "FRONTAL XIAOMI NOTE 10 4G INCEL  R$ 306,67 COM ARO (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 464,
+        "nome": "FRONTAL XIAOMI NOTE 10 4G ORI (SEM ARO)",
+        "preco": "R$ 520,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 465,
+        "nome": "FRONTAL XIAOMI NOTE 10 4G  ORI (COM ARO)",
+        "preco": "R$ 680,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 466,
+        "nome": "FRONTAL XIAOMI NOTE 10S",
+        "preco": "R$ 520,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 467,
+        "nome": "FRONTAL XIAOMI NOTE 10 5G INCEL (SEM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 468,
+        "nome": "FRONTAL XIAOMI NOTE 10 5G ORI (COM ARO)",
+        "preco": "R$ 493,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 469,
+        "nome": "FRONTAL XIAOMI REDMI 10C (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 470,
+        "nome": "FRONTAL XIAOMI REDMI 10C  R$ 293,33 COM ARO (SEM ARO)",
+        "preco": "R$ 440,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 471,
+        "nome": "FRONTAL XIAOMI NOTE 11S INCEL (COM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 472,
+        "nome": "FRONTAL XIAOMI NOTE 11S INCEL  R$ 293,33 COM ARO (SEM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 473,
+        "nome": "FRONTAL XIAOMI NOTE 11S ORI (COM ARO)",
+        "preco": "R$ 546,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 474,
+        "nome": "FRONTAL XIAOMI NOTE 11S ORI  R$ 546,67 COM ARO (SEM ARO)",
+        "preco": "R$ 706,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 475,
+        "nome": "FRONTAL XIAOMI NOTE 11 4G ORI (SEM ARO)",
+        "preco": "R$ 546,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 476,
+        "nome": "FRONTAL XIAOMI NOTE 11 4G ORI (COM ARO)",
+        "preco": "R$ 586,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 477,
+        "nome": "FRONTAL XIAOMI NOTE 11 4G INCEL (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 478,
+        "nome": "FRONTAL XIAOMI NOTE 11 4G INCEL (COM ARO)",
+        "preco": "R$ 346,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 479,
+        "nome": "FRONTAL XIAOMI MI 11 LITE  ORI (SEM ARO)",
+        "preco": "R$ 866,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 480,
+        "nome": "FRONTAL XIAOMI MI 11 LITE  ORI  R$ 866,67 INCEL (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 481,
+        "nome": "FRONTAL XIAOMI NOTE 11 PRO ORI (SEM ARO)",
+        "preco": "R$ 613,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 482,
+        "nome": "FRONTAL XIAOMI NOTE 11 PRO ORI  R$ 613,33 INCEL (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 483,
+        "nome": "FRONTAL XIAOMI POCO X5 INCEL (SEM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 484,
+        "nome": "FRONTAL XIAOMI POCO X5 INCEL  R$ 333,33 ORI (SEM ARO)",
+        "preco": "R$ 653,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 485,
+        "nome": "FRONTAL XIAOMI NOTE 12S (VIVAD)",
+        "preco": "R$ 706,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 486,
+        "nome": "FRONTAL XIAOMI NOTE 12S INCEL (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 487,
+        "nome": "FRONTAL XIAOMI NOTE 12S ORI (COM ARO)",
+        "preco": "R$ 546,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 488,
+        "nome": "FRONTAL XIAOMI NOTE 12S ORI  R$ 546,67 COM ARO (SEM ARO)",
+        "preco": "R$ 626,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 489,
+        "nome": "FRONTAL XIAOMI REDMI 12C (COM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 490,
+        "nome": "FRONTAL XIAOMI REDMI 12C  R$ 280,00 COM ARO (SEM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 491,
+        "nome": "FRONTAL XIAOMI NOTE 12 4G ORI (SEM ARO)",
+        "preco": "R$ 600,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 492,
+        "nome": "FRONTAL XIAOMI NOTE 12 4G ORI (COM ARO)",
+        "preco": "R$ 653,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 493,
+        "nome": "FRONTAL XIAOMI NOTE 12 5G INCEL (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 494,
+        "nome": "FRONTAL XIAOMI NOTE 12 5G INCEL (COM ARO)",
+        "preco": "R$ 373,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 495,
+        "nome": "FRONTAL XIAOMI NOTE 12 5G INCEL COM ARO R$ 373,33 (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 496,
+        "nome": "FRONTAL XIAOMI REDMI 13C (SEM ARO)",
+        "preco": "R$ 293,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 497,
+        "nome": "FRONTAL XIAOMI REDMI 13C (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 498,
+        "nome": "FRONTAL XIAOMI REDMI 12 (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 499,
+        "nome": "FRONTAL XIAOMI REDMI 12 (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 500,
+        "nome": "FRONTAL XIAOMI POCO F3  INCEL (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 501,
+        "nome": "FRONTAL XIAOMI POCO F3  ORI (SEM ARO)",
+        "preco": "R$ 720,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 502,
+        "nome": "FRONTAL XIAOMI NOTE 10 PRO INCEL (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 503,
+        "nome": "FRONTAL XIAOMI NOTE 10 PRO  ORI (SEM ARO)",
+        "preco": "R$ 653,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 504,
+        "nome": "FRONTAL XIAOMI M4 5G ORI (SEM ARO)",
+        "preco": "R$ 306,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 505,
+        "nome": "FRONTAL XIAOMI X4 PRO (ORIGINAL)",
+        "preco": "R$ 653,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 506,
+        "nome": "FRONTAL XIAOMI X4 PRO (INCELL)",
+        "preco": "R$ 360,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 507,
+        "nome": "FRONTAL XIAOMI  REDMI A1 (SEM ARO)",
+        "preco": "R$ 266,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 508,
+        "nome": "FRONTAL XIAOMI NOTE 12 PRO 4G ORI (SEM ARO)",
+        "preco": "R$ 706,67",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 509,
+        "nome": "FRONTAL XIAOMI NOTE 12 PRO 4G INCEL (SEM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 510,
+        "nome": "FRONTAL XIAOMI NOTE 12 PRO 5G INCEL (SEM ARO)",
+        "preco": "R$ 413,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 511,
+        "nome": "FRONTAL XIAOMI NOTE 12 PRO 5G VIVAD (SEM ARO)",
+        "preco": "R$ 680,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 512,
+        "nome": "FRONTAL XIAOMI NOTE 12 PRO 5G VIVAD (COM ARO)",
+        "preco": "R$ 813,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 513,
+        "nome": "FRONTAL XIAOMI REDMI A3 ORI (SEM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 514,
+        "nome": "FRONTAL XIAOMI REDMI M5S ORI (SEM ARO)",
+        "preco": "R$ 520,00",
+        "marca": "xiaomi",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 515,
+        "nome": "FRONTAL LG H422",
+        "preco": "R$ 226,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 516,
+        "nome": "FRONTAL LG H502",
+        "preco": "R$ 226,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 517,
+        "nome": "FRONTAL LG H345-H326-H325",
+        "preco": "R$ 226,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 518,
+        "nome": "FRONTAL LG K200",
+        "preco": "R$ 253,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 519,
+        "nome": "FRONTAL LG K4 2017",
+        "preco": "R$ 266,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 520,
+        "nome": "FRONTAL LG K8",
+        "preco": "R$ 266,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 521,
+        "nome": "FRONTAL LG K8 PLUS",
+        "preco": "R$ 320,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 522,
+        "nome": "FRONTAL LG K8 2017",
+        "preco": "R$ 266,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 523,
+        "nome": "FRONTAL LG K9",
+        "preco": "R$ 306,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 524,
+        "nome": "FRONTAL LG K10 COM TV",
+        "preco": "R$ 306,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 525,
+        "nome": "FRONTAL LG K10 SEM TV",
+        "preco": "R$ 306,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 526,
+        "nome": "FRONTAL LG K10 2017",
+        "preco": "R$ 280,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 527,
+        "nome": "FRONTAL LG K10 POWER",
+        "preco": "R$ 306,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 528,
+        "nome": "FRONTAL LG K10 PRO",
+        "preco": "R$ 360,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 529,
+        "nome": "FRONTAL LG K11",
+        "preco": "R$ 293,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 530,
+        "nome": "FRONTAL LG K11 PLUS",
+        "preco": "R$ 293,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 531,
+        "nome": "FRONTAL LG K12 - K12 PLUS",
+        "preco": "R$ 333,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 532,
+        "nome": "FRONTAL LG K12 PRIME",
+        "preco": "R$ 280,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 533,
+        "nome": "FRONTAL LG K12 MAX",
+        "preco": "R$ 280,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 534,
+        "nome": "FRONTAL LG Q6 - Q6 PLUS",
+        "preco": "R$ 346,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 535,
+        "nome": "FRONTAL LG K50 (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 536,
+        "nome": "FRONTAL LG K40 (COM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 537,
+        "nome": "FRONTAL LG K22 - K22 PLUS (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 538,
+        "nome": "FRONTAL LG K22 - K22 PLUS (COM ARO)",
+        "preco": "R$ 360,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 539,
+        "nome": "FRONTAL LG K40S (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 540,
+        "nome": "FRONTAL LG K40S (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 541,
+        "nome": "FRONTAL LG K40S (VIVAD)",
+        "preco": "R$ 546,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 542,
+        "nome": "FRONTAL LG K51S (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 543,
+        "nome": "FRONTAL LG K51S (COM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 544,
+        "nome": "FRONTAL LG K50S (SEM ARO)",
+        "preco": "R$ 333,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 545,
+        "nome": "FRONTAL LG K50S (VIVAD)",
+        "preco": "R$ 440,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 546,
+        "nome": "FRONTAL LG K41S (SEM ARO)",
+        "preco": "R$ 253,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 547,
+        "nome": "FRONTAL LG K41S (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 548,
+        "nome": "FRONTAL LG K62 - K52 - K42 (SEM ARO)",
+        "preco": "R$ 280,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 549,
+        "nome": "FRONTAL LG K62 COM ARO",
+        "preco": "A consultar",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": false,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 550,
+        "nome": "FRONTAL LG K61 (COM ARO)",
+        "preco": "R$ 320,00",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 551,
+        "nome": "FRONTAL LG K61  R$ 320,00 COM ARO (SEM ARO)",
+        "preco": "R$ 386,67",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 552,
+        "nome": "FRONTAL LG K61 (VIVAD)",
+        "preco": "R$ 413,33",
+        "marca": "lg",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 553,
+        "nome": "FRONTAL ZENFONE ZC553KL",
+        "preco": "R$ 333,33",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 554,
+        "nome": "FRONTAL ZENFONE ZD551KL",
+        "preco": "R$ 333,33",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 555,
+        "nome": "FRONTAL ZENFONE ZE553KL",
+        "preco": "R$ 466,67",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 556,
+        "nome": "FRONTAL ZENFONE ZD553KL",
+        "preco": "R$ 360,00",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 557,
+        "nome": "FRONTAL ZENFONE ZC520KL",
+        "preco": "R$ 360,00",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 558,
+        "nome": "FRONTAL ZENFONE ZC554KL",
+        "preco": "R$ 386,67",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 559,
+        "nome": "FRONTAL ZENFONE ZB551KL",
+        "preco": "R$ 360,00",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 560,
+        "nome": "FRONTAL ZENFONE ZB501KL",
+        "preco": "R$ 333,33",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 561,
+        "nome": "FRONTAL ZENFONE ZE620KL",
+        "preco": "R$ 360,00",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 562,
+        "nome": "FRONTAL ZENFONE ZB601KL - ZB602KL",
+        "preco": "R$ 386,67",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 563,
+        "nome": "FRONTAL ZENFONE ZB553KL",
+        "preco": "R$ 360,00",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 564,
+        "nome": "FRONTAL ZENFONE ZB634KL",
+        "preco": "R$ 306,67",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 565,
+        "nome": "FRONTAL ZENFONE A501",
+        "preco": "R$ 226,67",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 566,
+        "nome": "FRONTAL ZENFONE A601",
+        "preco": "R$ 306,67",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 567,
+        "nome": "FRONTAL ZENFONE ZC600KL",
+        "preco": "R$ 386,67",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 568,
+        "nome": "FRONTAL ZENFONE ZB631KL",
+        "preco": "R$ 293,33",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 569,
+        "nome": "FRONTAL ZENFONE ZA550KL",
+        "preco": "R$ 360,00",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 570,
+        "nome": "FRONTAL ZENFONE ZB555KL",
+        "preco": "R$ 333,33",
+        "marca": "zenfone",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 571,
+        "nome": "FRONTAL REALME C11",
+        "preco": "R$ 386,67",
+        "marca": "realme",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 572,
+        "nome": "FRONTAL REALME C15",
+        "preco": "R$ 386,67",
+        "marca": "realme",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 573,
+        "nome": "FRONTAL REALME C3",
+        "preco": "R$ 493,33",
+        "marca": "realme",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 574,
+        "nome": "FRONTAL REALME C11 2021",
+        "preco": "R$ 293,33",
+        "marca": "realme",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      },
+      {
+        "id": 575,
+        "nome": "FRONTAL REALME 7 PRÓ (INCELL)",
+        "preco": "R$ 386,67",
+        "marca": "realme",
+        "categoria": "frontal",
+        "disponivel": true,
+        "dataAtualizacao": "2025-08-17"
+      }
+    ],
+    "totalProdutos": 575,
+    "marcas": [
+      "motorola",
+      "samsung",
+      "iphone",
+      "xiaomi",
+      "lg",
+      "zenfone",
+      "realme"
+    ],
+    "ultimaAtualizacao": "2025-08-17"
+  }
