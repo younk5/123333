@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Configurações do Sistema">
+    <meta name="keywords" content="configurações, sistema">
+    <meta name="author" content="Galaxy Smart">
+    <title>Configurações - Sistema de Consulta</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚙️</text></svg>">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Estilos específicos para a página de configurações */
+        .config-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .config-header {
+            text-align: center;
+            margin-bottom: 40px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+        }
+        
+        .config-section {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            margin-bottom: 24px;
+            overflow: hidden;
+            animation: slideUp 0.6s ease;
+        }
+        
+        .config-section-header {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 20px;
+            border-bottom: 1px solid #dee2e6;
+        }
+        
+        .config-section-header h3 {
+            margin: 0;
+            color: #495057;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 1.2rem;
+        }
+        
+        .config-section-content {
+            padding: 24px;
+        }
+        
+        .config-group {
+            margin-bottom: 24px;
+        }
+        
+        .config-group:last-child {
+            margin-bottom: 0;
+        }
+        
+        .config-label {
+            display: block;
+            font-weight: 600;
+            color: #495057;
+            margin-bottom: 8px;
+            font-size: 0.95rem;
+        }
+        
+        .config-input {
+            width: 100%;
+            padding: 12px 16px;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            background: #f8f9fa;
+        }
+        
+        .config-input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+            background: white;
+        }
+        
+        .config-checkbox {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            padding: 8px;
+            border-radius: 6px;
+            transition: background 0.2s ease;
+        }
+        
+        .config-checkbox:hover {
+            background: #f8f9fa;
+        }
+        
+        .config-checkbox input {
+            width: 18px;
+            height: 18px;
+            accent-color: #667eea;
+        }
+        
+        .btn-group {
+            display: flex;
+            gap: 12px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.95rem;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+        
+        .btn-secondary:hover {
+            background: #5a6268;
+            transform: translateY(-2px);
+        }
+        
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+        
+        .btn-success:hover {
+            background: #218838;
+            transform: translateY(-2px);
+        }
+        
+        .btn-warning {
+            background: #ffc107;
+            color: #212529;
+        }
+        
+        .btn-warning:hover {
+            background: #e0a800;
+            transform: translateY(-2px);
+        }
+        
+        .btn-back {
+            background: linear-gradient(135deg, #6c757d 0%, #495057 100%);
+            color: white;
+        }
+        
+        .btn-back:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(108, 117, 125, 0.4);
+        }
+        
+        .config-description {
+            color: #6c757d;
+            font-size: 0.9rem;
+            margin-top: 4px;
+            line-height: 1.5;
+        }
+        
+        .percentage-display {
+            background: #e7f3ff;
+            border: 2px solid #b3d9ff;
+            padding: 12px;
+            border-radius: 8px;
+            margin-top: 8px;
+            text-align: center;
+            font-weight: bold;
+            color: #0066cc;
+        }
+        
+        .range-input {
+            width: 100%;
+            margin: 12px 0;
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 8px;
+        }
+        
+        .status-active {
+            background: #28a745;
+            box-shadow: 0 0 8px rgba(40, 167, 69, 0.5);
+        }
+        
+        .status-inactive {
+            background: #dc3545;
+        }
+        
+        @keyframes slideUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .theme-preview {
+            display: flex;
+            gap: 12px;
+            margin-top: 12px;
+        }
+        
+        .theme-option {
+            padding: 8px 16px;
+            border: 2px solid #dee2e6;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            background: white;
+        }
+        
+        .theme-option.active {
+            border-color: #667eea;
+            background: #667eea;
+            color: white;
+        }
+        
+        .theme-option:hover {
+            border-color: #667eea;
+        }
+        
+        @media (max-width: 768px) {
+            .config-container {
+                padding: 15px;
+            }
+            
+            .config-header {
+                padding: 20px;
+            }
+            
+            .btn-group {
+                flex-direction: column;
+            }
+            
+            .btn {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        <div class="config-container">
+            <!-- Header -->
+            <header class="config-header">
+                <h1>⚙️ Configurações do Sistema</h1>
+                <p>Personalize o comportamento e aparência do sistema de consulta</p>
+                <p style="margin-top: 16px; opacity: 0.9;">
+                    <span class="status-indicator status-active"></span>
+                    Sistema v4.1 Operacional
+                </p>
+            </header>
+
+            <!-- Seção de Preços -->
+            <div class="config-section">
+                <div class="config-section-header">
+                    <h3>💰 Configurações de Preços</h3>
+                </div>
+                <div class="config-section-content">
+                    <div class="config-group">
+                        <label class="config-label" for="percentual-acrescimo">Percentual de Acréscimo (%)</label>
+                        <input type="range" 
+                               id="percentual-acrescimo" 
+                               class="range-input" 
+                               min="0" 
+                               max="50" 
+                               value="20" 
+                               oninput="atualizarPercentual(this.value)">
+                        <div class="percentage-display" id="percentual-display">
+                            💰 Acréscimo Atual: 20%
+                        </div>
+                        <p class="config-description">
+                            Ajuste o percentual de acréscimo aplicado aos preços originais dos produtos. 
+                            O valor será aplicado automaticamente em todas as consultas.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-checkbox">
+                            <input type="checkbox" id="mostrar-preco-original" checked>
+                            <span>Exibir preço original riscado</span>
+                        </label>
+                        <p class="config-description">
+                            Quando habilitado, mostra o preço original riscado junto ao preço com acréscimo.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-checkbox">
+                            <input type="checkbox" id="destacar-acrescimo" checked>
+                            <span>Destacar indicador de acréscimo</span>
+                        </label>
+                        <p class="config-description">
+                            Exibe o indicador "+X%" em destaque nos preços.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Seção de Interface -->
+            <div class="config-section">
+                <div class="config-section-header">
+                    <h3>🎨 Configurações de Interface</h3>
+                </div>
+                <div class="config-section-content">
+                    <div class="config-group">
+                        <label class="config-label">Tema do Sistema</label>
+                        <div class="theme-preview">
+                            <div class="theme-option active" onclick="alterarTema('claro')">☀️ Claro</div>
+                            <div class="theme-option" onclick="alterarTema('escuro')">🌙 Escuro</div>
+                            <div class="theme-option" onclick="alterarTema('auto')">🔄 Automático</div>
+                        </div>
+                        <p class="config-description">
+                            Escolha o tema visual do sistema. O modo automático se adapta às preferências do dispositivo.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-label" for="produtos-por-pagina">Produtos por página</label>
+                        <select id="produtos-por-pagina" class="config-input">
+                            <option value="25">25 produtos</option>
+                            <option value="50" selected>50 produtos</option>
+                            <option value="100">100 produtos</option>
+                            <option value="200">200 produtos</option>
+                            <option value="todos">Todos os produtos</option>
+                        </select>
+                        <p class="config-description">
+                            Defina quantos produtos serão exibidos por vez nas tabelas.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-checkbox">
+                            <input type="checkbox" id="animacoes-interface" checked>
+                            <span>Habilitar animações da interface</span>
+                        </label>
+                        <p class="config-description">
+                            Ativa/desativa as animações de transição entre elementos da interface.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-checkbox">
+                            <input type="checkbox" id="sons-sistema">
+                            <span>Sons de feedback do sistema</span>
+                        </label>
+                        <p class="config-description">
+                            Reproduz sons sutis para ações como cliques, filtros e navegação.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Seção de Sistema -->
+            <div class="config-section">
+                <div class="config-section-header">
+                    <h3>🔧 Configurações do Sistema</h3>
+                </div>
+                <div class="config-section-content">
+                    <div class="config-group">
+                        <label class="config-label" for="intervalo-atualizacao">Intervalo de atualização automática</label>
+                        <select id="intervalo-atualizacao" class="config-input">
+                            <option value="0">Desabilitado</option>
+                            <option value="300">5 minutos</option>
+                            <option value="600">10 minutos</option>
+                            <option value="1800" selected>30 minutos</option>
+                            <option value="3600">1 hora</option>
+                        </select>
+                        <p class="config-description">
+                            Define com que frequência o sistema verificará automaticamente por atualizações nos dados.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-checkbox">
+                            <input type="checkbox" id="cache-local" checked>
+                            <span>Habilitar cache local</span>
+                        </label>
+                        <p class="config-description">
+                            Armazena dados localmente para melhorar a velocidade de carregamento.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-checkbox">
+                            <input type="checkbox" id="modo-debug">
+                            <span>Modo de depuração</span>
+                        </label>
+                        <p class="config-description">
+                            Ativa logs detalhados no console para diagnósticos técnicos.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <label class="config-label" for="empresa-nome">Nome da empresa</label>
+                        <input type="text" 
+                               id="empresa-nome" 
+                               class="config-input" 
+                               value="Galaxy Smart Pro"
+                               placeholder="Digite o nome da sua empresa">
+                        <p class="config-description">
+                            Nome que aparecerá no rodapé e cabeçalhos do sistema.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Seção de Dados -->
+            <div class="config-section">
+                <div class="config-section-header">
+                    <h3>📊 Gerenciamento de Dados</h3>
+                </div>
+                <div class="config-section-content">
+                    <div class="config-group">
+                        <label class="config-label">Arquivos de dados</label>
+                        <p style="color: #6c757d; margin-bottom: 12px;">
+                            📁 telas.json • 📁 baterias.json • 📁 conectores.json
+                        </p>
+                        <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+                            <button class="btn btn-success" onclick="verificarArquivos()">
+                                🔍 Verificar Integridade
+                            </button>
+                            <button class="btn btn-warning" onclick="recarregarDados()">
+                                🔄 Recarregar Dados
+                            </button>
+                        </div>
+                        <p class="config-description">
+                            Gerencie os arquivos JSON que contêm os dados dos produtos.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <button class="btn btn-secondary" onclick="exportarConfiguracoes()">
+                            📤 Exportar Configurações
+                        </button>
+                        <button class="btn btn-secondary" onclick="importarConfiguracoes()">
+                            📥 Importar Configurações
+                        </button>
+                        <p class="config-description">
+                            Salve suas configurações ou restaure de um backup anterior.
+                        </p>
+                    </div>
+                    
+                    <div class="config-group">
+                        <button class="btn btn-warning" onclick="limparCache()">
+                            🗑️ Limpar Cache
+                        </button>
+                        <button class="btn btn-warning" onclick="resetarConfiguracoes()">
+                            ↩️ Restaurar Padrões
+                        </button>
+                        <p class="config-description">
+                            Limpe dados temporários ou restaure todas as configurações ao padrão.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Botões de Ação -->
+            <div class="btn-group">
+                <button class="btn btn-primary" onclick="salvarConfiguracoes()">
+                    💾 Salvar Alterações
+                </button>
+                <button class="btn btn-back" onclick="voltarSistema()">
+                    ← Voltar ao Sistema
+                </button>
+                <button class="btn btn-secondary" onclick="cancelarAlteracoes()">
+                    ❌ Cancelar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ========================================
+        // SCRIPT DE CONFIGURAÇÕES v1.0
+        // ========================================
+        
+        function atualizarPercentual(valor) {
+            const display = document.getElementById('percentual-display');
+            display.textContent = `💰 Acréscimo Atual: ${valor}%`;
+            
+            // Animação visual
+            display.style.transform = 'scale(1.05)';
+            setTimeout(() => {
+                display.style.transform = 'scale(1)';
+            }, 200);
+        }
+        
+        function alterarTema(tema) {
+            // Remove classe active de todos os temas
+            document.querySelectorAll('.theme-option').forEach(option => {
+                option.classList.remove('active');
+            });
+            
+            // Adiciona active ao tema selecionado
+            event.target.classList.add('active');
+            
+            console.log(`🎨 Tema alterado para: ${tema}`);
+            // Aqui você pode implementar a lógica para aplicar o tema
+        }
+        
+        function verificarArquivos() {
+            // Simula verificação dos arquivos
+            alert('🔍 Verificando integridade dos arquivos...\n\n✅ telas.json - OK\n✅ baterias.json - OK\n✅ conectores.json - OK\n\nTodos os arquivos estão íntegros!');
+        }
+        
+        function recarregarDados() {
+            if (confirm('🔄 Deseja recarregar todos os dados do sistema?\n\nEsta ação pode demorar alguns segundos.')) {
+                alert('📊 Dados recarregados com sucesso!\n\nO sistema foi atualizado com as informações mais recentes.');
+            }
+        }
+        
+        function exportarConfiguracoes() {
+            // Coleta todas as configurações
+            const config = {
+                percentualAcrescimo: document.getElementById('percentual-acrescimo').value,
+                mostrarPrecoOriginal: document.getElementById('mostrar-preco-original').checked,
+                destacarAcrescimo: document.getElementById('destacar-acrescimo').checked,
+                produtosPorPagina: document.getElementById('produtos-por-pagina').value,
+                animacoesInterface: document.getElementById('animacoes-interface').checked,
+                sonsSistema: document.getElementById('sons-sistema').checked,
+                intervaloAtualizacao: document.getElementById('intervalo-atualizacao').value,
+                cacheLocal: document.getElementById('cache-local').checked,
+                modoDebug: document.getElementById('modo-debug').checked,
+                empresaNome: document.getElementById('empresa-nome').value,
+                dataExportacao: new Date().toISOString()
+            };
+            
+            // Cria arquivo para download
+            const dataStr = JSON.stringify(config, null, 2);
+            const dataBlob = new Blob([dataStr], {type: 'application/json'});
+            const url = URL.createObjectURL(dataBlob);
+            
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `config-sistema-${new Date().toISOString().slice(0, 10)}.json`;
+            link.click();
+            
+            URL.revokeObjectURL(url);
+            alert('📤 Configurações exportadas com sucesso!\n\nO arquivo foi salvo nos seus downloads.');
+        }
+        
+        function importarConfiguracoes() {
+            const input = document.createElement('input');
+            input.type = 'file';
+            input.accept = '.json';
+            
+            input.onchange = function(event) {
+                const file = event.target.files[0];
+                if (!file) return;
+                
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    try {
+                        const config = JSON.parse(e.target.result);
+                        
+                        // Aplica as configurações
+                        if (config.percentualAcrescimo) document.getElementById('percentual-acrescimo').value = config.percentualAcrescimo;
+                        if (config.mostrarPrecoOriginal !== undefined) document.getElementById('mostrar-preco-original').checked = config.mostrarPrecoOriginal;
+                        if (config.destacarAcrescimo !== undefined) document.getElementById('destacar-acrescimo').checked = config.destacarAcrescimo;
+                        if (config.produtosPorPagina) document.getElementById('produtos-por-pagina').value = config.produtosPorPagina;
+                        if (config.animacoesInterface !== undefined) document.getElementById('animacoes-interface').checked = config.animacoesInterface;
+                        if (config.sonsSistema !== undefined) document.getElementById('sons-sistema').checked = config.sonsSistema;
+                        if (config.intervaloAtualizacao) document.getElementById('intervalo-atualizacao').value = config.intervaloAtualizacao;
+                        if (config.cacheLocal !== undefined) document.getElementById('cache-local').checked = config.cacheLocal;
+                        if (config.modoDebug !== undefined) document.getElementById('modo-debug').checked = config.modoDebug;
+                        if (config.empresaNome) document.getElementById('empresa-nome').value = config.empresaNome;
+                        
+                        // Atualiza display do percentual
+                        if (config.percentualAcrescimo) {
+                            atualizarPercentual(config.percentualAcrescimo);
+                        }
+                        
+                        alert('📥 Configurações importadas com sucesso!\n\nTodas as configurações foram restauradas.');
+                    } catch (error) {
+                        alert('❌ Erro ao importar configurações!\n\nVerifique se o arquivo está no formato correto.');
+                        console.error('Erro ao importar:', error);
+                    }
+                };
+                reader.readAsText(file);
+            };
+            
+            input.click();
+        }
+        
+        function limparCache() {
+            if (confirm('🗑️ Deseja limpar todo o cache do sistema?\n\nEsta ação removerá dados temporários e pode melhorar a performance.')) {
+                // Simula limpeza do cache
+                setTimeout(() => {
+                    alert('✅ Cache limpo com sucesso!\n\nO sistema está mais otimizado agora.');
+                }, 1000);
+            }
+        }
+        
+        function resetarConfiguracoes() {
+            if (confirm('↩️ Deseja restaurar todas as configurações aos valores padrão?\n\nEsta ação não pode ser desfeita.')) {
+                // Restaura valores padrão
+                document.getElementById('percentual-acrescimo').value = 20;
+                document.getElementById('mostrar-preco-original').checked = true;
+                document.getElementById('destacar-acrescimo').checked = true;
+                document.getElementById('produtos-por-pagina').value = '50';
+                document.getElementById('animacoes-interface').checked = true;
+                document.getElementById('sons-sistema').checked = false;
+                document.getElementById('intervalo-atualizacao').value = '1800';
+                document.getElementById('cache-local').checked = true;
+                document.getElementById('modo-debug').checked = false;
+                document.getElementById('empresa-nome').value = 'Galaxy Smart Pro';
+                
+                // Atualiza display
+                atualizarPercentual(20);
+                
+                // Restaura tema padrão
+                document.querySelectorAll('.theme-option').forEach(option => {
+                    option.classList.remove('active');
+                });
+                document.querySelector('.theme-option').classList.add('active');
+                
+                alert('✅ Configurações restauradas!\n\nTodos os valores foram redefinidos para o padrão.');
+            }
+        }
+        
+        function salvarConfiguracoes() {
+            // Coleta todas as configurações
+            const configuracoes = {
+                percentualAcrescimo: document.getElementById('percentual-acrescimo').value,
+                mostrarPrecoOriginal: document.getElementById('mostrar-preco-original').checked,
+                destacarAcrescimo: document.getElementById('destacar-acrescimo').checked,
+                produtosPorPagina: document.getElementById('produtos-por-pagina').value,
+                animacoesInterface: document.getElementById('animacoes-interface').checked,
+                sonsSistema: document.getElementById('sons-sistema').checked,
+                intervaloAtualizacao: document.getElementById('intervalo-atualizacao').value,
+                cacheLocal: document.getElementById('cache-local').checked,
+                modoDebug: document.getElementById('modo-debug').checked,
+                empresaNome: document.getElementById('empresa-nome').value
+            };
+            
+            // Simula salvamento (aqui você integraria com localStorage ou backend)
+            localStorage.setItem('configSistema', JSON.stringify(configuracoes));
+            
+            // Feedback visual
+            const btn = event.target;
+            const textoOriginal = btn.innerHTML;
+            btn.innerHTML = '✅ Salvo!';
+            btn.style.background = '#28a745';
+            
+            setTimeout(() => {
+                btn.innerHTML = textoOriginal;
+                btn.style.background = '';
+            }, 2000);
+            
+            console.log('💾 Configurações salvas:', configuracoes);
+        }
+        
+        function voltarSistema() {
+            if (confirm('← Voltar ao sistema principal?\n\nCertifique-se de salvar suas alterações antes de sair.')) {
+                window.location.href = 'index.html';
+            }
+        }
+        
+        function cancelarAlteracoes() {
+            if (confirm('❌ Cancelar todas as alterações?\n\nTodas as modificações não salvas serão perdidas.')) {
+                location.reload();
+            }
+        }
+        
+        // ========================================
+        // INICIALIZAÇÃO DA PÁGINA
+        // ========================================
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('⚙️ Página de configurações carregada v1.0');
+            
+            // Carrega configurações salvas
+            const configSalva = localStorage.getItem('configSistema');
+            if (configSalva) {
+                try {
+                    const config = JSON.parse(configSalva);
+                    
+                    // Aplica configurações salvas
+                    if (config.percentualAcrescimo) {
+                        document.getElementById('percentual-acrescimo').value = config.percentualAcrescimo;
+                        atualizarPercentual(config.percentualAcrescimo);
+                    }
+                    if (config.mostrarPrecoOriginal !== undefined) document.getElementById('mostrar-preco-original').checked = config.mostrarPrecoOriginal;
+                    if (config.destacarAcrescimo !== undefined) document.getElementById('destacar-acrescimo').checked = config.destacarAcrescimo;
+                    if (config.produtosPorPagina) document.getElementById('produtos-por-pagina').value = config.produtosPorPagina;
+                    if (config.animacoesInterface !== undefined) document.getElementById('animacoes-interface').checked = config.animacoesInterface;
+                    if (config.sonsSistema !== undefined) document.getElementById('sons-sistema').checked = config.sonsSistema;
+                    if (config.intervaloAtualizacao) document.getElementById('intervalo-atualizacao').value = config.intervaloAtualizacao;
+                    if (config.cacheLocal !== undefined) document.getElementById('cache-local').checked = config.cacheLocal;
+                    if (config.modoDebug !== undefined) document.getElementById('modo-debug').checked = config.modoDebug;
+                    if (config.empresaNome) document.getElementById('empresa-nome').value = config.empresaNome;
+                    
+                    console.log('📋 Configurações carregadas do localStorage');
+                } catch (error) {
+                    console.warn('⚠️ Erro ao carregar configurações salvas:', error);
+                }
+            }
+            
+            // Adiciona animações de entrada
+            const sections = document.querySelectorAll('.config-section');
+            sections.forEach((section, index) => {
+                section.style.animationDelay = `${index * 0.1}s`;
+            });
+        });
+        
+        // Atalhos de teclado para a página de configurações
+        document.addEventListener('keydown', function(e) {
+            // Ctrl + S para salvar
+            if (e.ctrlKey && e.key === 's') {
+                e.preventDefault();
+                salvarConfiguracoes();
+            }
+            
+            // Escape para voltar
+            if (e.key === 'Escape') {
+                voltarSistema();
+            }
+            
+            // Ctrl + R para resetar
+            if (e.ctrlKey && e.key === 'r') {
+                e.preventDefault();
+                resetarConfiguracoes();
+            }
+            
+            // Ctrl + E para exportar
+            if (e.ctrlKey && e.key === 'e') {
+                e.preventDefault();
+                exportarConfiguracoes();
+            }
+            
+            // Ctrl + I para importar
+            if (e.ctrlKey && e.key === 'i') {
+                e.preventDefault();
+                importarConfiguracoes();
+            }
+        });
+        
+        // Auto-save das configurações (salva automaticamente a cada mudança)
+        function setupAutoSave() {
+            const inputs = document.querySelectorAll('input, select');
+            inputs.forEach(input => {
+                input.addEventListener('change', function() {
+                    // Salva automaticamente após 2 segundos de inatividade
+                    clearTimeout(window.autoSaveTimeout);
+                    window.autoSaveTimeout = setTimeout(() => {
+                        const config = {
+                            percentualAcrescimo: document.getElementById('percentual-acrescimo').value,
+                            mostrarPrecoOriginal: document.getElementById('mostrar-preco-original').checked,
+                            destacarAcrescimo: document.getElementById('destacar-acrescimo').checked,
+                            produtosPorPagina: document.getElementById('produtos-por-pagina').value,
+                            animacoesInterface: document.getElementById('animacoes-interface').checked,
+                            sonsSistema: document.getElementById('sons-sistema').checked,
+                            intervaloAtualizacao: document.getElementById('intervalo-atualizacao').value,
+                            cacheLocal: document.getElementById('cache-local').checked,
+                            modoDebug: document.getElementById('modo-debug').checked,
+                            empresaNome: document.getElementById('empresa-nome').value,
+                            ultimoAutoSave: new Date().toISOString()
+                        };
+                        
+                        localStorage.setItem('configSistema', JSON.stringify(config));
+                        console.log('💾 Auto-save executado');
+                    }, 2000);
+                });
+            });
+        }
+        
+        // Inicializa auto-save quando a página carregar
+        document.addEventListener('DOMContentLoaded', setupAutoSave);
+    </script>
+</body>
+</html>

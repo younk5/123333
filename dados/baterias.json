@@ -1,0 +1,327 @@
+{
+  "produtos": [
+    {
+      "id": 106,
+      "nome": "BATERIA IPHONE 4/4S",
+      "preco": "R$ 150,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "1420mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 107,
+      "nome": "BATERIA IPHONE 5/5S/5C/SE ANTIGO",
+      "preco": "R$ 200,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "1440mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 108,
+      "nome": "BATERIA IPHONE 6/6S",
+      "preco": "R$ 250,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "1810mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 109,
+      "nome": "BATERIA IPHONE 6 PLUS/6S PLUS",
+      "preco": "R$ 230,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2915mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 110,
+      "nome": "BATERIA IPHONE 7",
+      "preco": "R$ 300,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "1960mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 111,
+      "nome": "BATERIA IPHONE 7 PLUS",
+      "preco": "R$ 300,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2900mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 112,
+      "nome": "BATERIA IPHONE 8/SE 2020",
+      "preco": "R$ 300,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "1821mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 113,
+      "nome": "BATERIA IPHONE 8 PLUS",
+      "preco": "R$ 300,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2691mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 114,
+      "nome": "BATERIA IPHONE X",
+      "preco": "R$ 350,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2716mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 115,
+      "nome": "BATERIA IPHONE XR",
+      "preco": "R$ 350,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2942mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 116,
+      "nome": "BATERIA IPHONE XS",
+      "preco": "R$ 350,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2658mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 117,
+      "nome": "BATERIA IPHONE XS MAX",
+      "preco": "R$ 350,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3174mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 118,
+      "nome": "BATERIA IPHONE 11",
+      "preco": "R$ 400,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3110mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 119,
+      "nome": "BATERIA IPHONE 11 PRO",
+      "preco": "R$ 400,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3046mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 120,
+      "nome": "BATERIA IPHONE 11 PRO MAX",
+      "preco": "R$ 400,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3969mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 121,
+      "nome": "BATERIA IPHONE 12 MINI",
+      "preco": "R$ 450,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2227mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 122,
+      "nome": "BATERIA IPHONE 12",
+      "preco": "R$ 450,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2815mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 123,
+      "nome": "BATERIA IPHONE 12 PRO",
+      "preco": "R$ 450,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2815mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 124,
+      "nome": "BATERIA IPHONE 12 PRO MAX",
+      "preco": "R$ 450,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3687mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 125,
+      "nome": "BATERIA IPHONE 13 MINI",
+      "preco": "R$ 550,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "2406mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 126,
+      "nome": "BATERIA IPHONE 13",
+      "preco": "R$ 550,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3227mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 127,
+      "nome": "BATERIA IPHONE 13 PRO",
+      "preco": "R$ 550,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3095mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 128,
+      "nome": "BATERIA IPHONE 13 PRO MAX",
+      "preco": "R$ 550,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "4352mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 129,
+      "nome": "BATERIA IPHONE 14",
+      "preco": "R$ 650,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3279mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 130,
+      "nome": "BATERIA IPHONE 14 PRO",
+      "preco": "R$ 650,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3200mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 131,
+      "nome": "BATERIA IPHONE 14 PRO MAX",
+      "preco": "R$ 650,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "4323mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 132,
+      "nome": "BATERIA IPHONE 15",
+      "preco": "R$ 750,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3349mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 133,
+      "nome": "BATERIA IPHONE 15 PRO",
+      "preco": "R$ 750,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3274mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 134,
+      "nome": "BATERIA IPHONE 15 PRO MAX",
+      "preco": "R$ 750,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "4441mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 135,
+      "nome": "BATERIA IPHONE 16",
+      "preco": "R$ 850,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "3561mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 136,
+      "nome": "BATERIA IPHONE 16 PRO MAX",
+      "preco": "R$ 850,00",
+      "marca": "iphone",
+      "categoria": "bateria",
+      "capacidade": "4685mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
+    }
+  ],
+  "totalProdutos": 36,
+  "marcas": ["motorola", "samsung", "iphone", "xiaomi", "zenfone"],
+  "ultimaAtualizacao": "2025-08-18",
+  "configuracoes": {
+    "sistema": "Sistema de Consulta de Preços",
+    "versao": "4.0",
+    "empresa": "Galaxy Smart",
+    "dataAtualizacao": "2025-08-18"
+  },
+  "metadados": {
+    "totalProdutos": 36,
+    "ultimaAtualizacao": "2025-08-18"
+  }
+}

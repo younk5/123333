@@ -1,0 +1,68 @@
+{
+  "produtos": [
+    {
+      "id": 201,
+      "nome": "CONECTOR CARGA IPHONE",
+      "preco": "R$ 250,00",
+      "marca": "lightning",
+      "categoria": "conector",
+      "tipo": "NOVO",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-17"
+    },
+    {
+      "id": 202,
+      "nome": "CONECTOR CARGA ",
+      "preco": "R$ 100,00",
+      "marca": "micro/v8",
+      "categoria": "conector",
+      "tipo": "RECUPEARADO",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-17"
+    },
+    {
+      "id": 203,
+      "nome": "CONECTOR CARGA ",
+      "preco": "R$ 200,00",
+      "marca": "micro/v8",
+      "categoria": "conector",
+      "tipo": "NOVO",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-17"
+    },
+        {
+      "id": 202,
+      "nome": "CONECTOR CARGA",
+      "preco": "R$ 150,00",
+      "marca": "Tipo-C",
+      "categoria": "conector",
+      "tipo": "RECUPEARADO",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-17"
+    },
+        {
+      "id": 203,
+      "nome": "CONECTOR CARGA ",
+      "preco": "R$ 250,00",
+      "marca": "Tipo-C",
+      "categoria": "conector",
+      "tipo": "NOVO",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-17"
+    }
+
+  ],
+  "totalProdutos": 5,
+  "marcas": ["Tipo-C", "micro/v8", "lightning"],
+  "ultimaAtualizacao": "2025-08-17",
+  "configuracoes": {
+    "sistema": "Sistema de Consulta de Preços",
+    "versao": "4.0",
+    "empresa": "Galaxy Smart",
+    "dataAtualizacao": "2025-08-17"
+  },
+  "metadados": {
+    "totalProdutos": 5,
+    "ultimaAtualizacao": "2025-08-17"
+  }
+}
