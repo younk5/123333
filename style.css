@@ -141,7 +141,7 @@ body::before {
     border: 1px solid var(--border);
     padding: 8px;
     gap: 4px;
-    overflow-x: auto;
+
 }
 
 .tab-btn {
@@ -443,9 +443,7 @@ body::before {
     margin-bottom: 32px;
 }
 
-.table-wrapper {
-    overflow-x: auto;
-}
+
 
 table {
     width: 100%;
@@ -764,10 +762,7 @@ tbody tr:hover {
         font-size: 1.1rem;
     }
 
-    .table-wrapper {
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-    }
+
 }
 
 @media (max-width: 480px) {

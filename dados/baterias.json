@@ -309,6 +309,16 @@
       "capacidade": "4685mAh",
       "disponivel": true,
       "dataAtualizacao": "2025-08-18"
+    },
+    {
+      "id": 137,
+      "nome": "BATERIA J1 MINI",
+      "preco": "R$ 150,00",
+      "marca": "SAMSUNG",
+      "categoria": "bateria",
+      "capacidade": "4685mAh",
+      "disponivel": true,
+      "dataAtualizacao": "2025-08-18"
     }
   ],
   "totalProdutos": 36,
